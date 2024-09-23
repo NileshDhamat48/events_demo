@@ -1,17 +1,19 @@
-# demo
+# Flutter Demo App: Event Management
 
-A new Flutter project.
+A demo Flutter app for creating, selecting, and updating events by year, month, and day using a local database and Provider for state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create, update, and view events based on selected dates.
+- Local SQLite database for event storage.
+- State management using Provider.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**: UI framework
+- **Provider**: State management
+- **SQLite**: Local database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# events_demo
+## Demo video:
+https://github.com/user-attachments/assets/6209e520-2693-4d3a-b7d8-ab1c352a4396
+
